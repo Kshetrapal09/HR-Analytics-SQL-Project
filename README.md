@@ -35,7 +35,7 @@ The analysis was done as part of a Data Analytics Bootcamp project.
 ---
 
 ## 🚀 How to Run
-1. Import the dataset into PostgreSQL (table: `hr_data_updated`).
+1. Import the dataset into MYSQL Workbench.(table: `hr_data_updated`).
 2. Run queries from `hr_analytics_project_queries1.sql`.
 3. Export results to Excel (optional) to create visual dashboards.
 
