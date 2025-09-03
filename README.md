@@ -13,7 +13,7 @@ The analysis was done as part of a Data Analytics Bootcamp project.
 ---
 
 ## 🛠 Tools & Skills Used
-- SQL (PostgreSQL, DBeaver)
+- SQL (MYSQL Workbench)
 - Excel (for dashboard visualization)
 - Data Cleaning & Transformation
 - KPI Analysis & Reporting
